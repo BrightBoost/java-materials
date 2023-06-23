@@ -1,0 +1,8 @@
+Round 1:
+Team A 5 - 7 Team B - Winner: Team B
+Team C 6 - 3 Team D - Winner: Team C
+
+Round 2:
+Team A 2 - 0 Team B - Winner: Team A
+Team C 3 - 8 Team D - Winner: Team D
+
